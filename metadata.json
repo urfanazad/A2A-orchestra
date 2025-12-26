@@ -1,0 +1,8 @@
+{
+  "name": "A2A Agent Orchestra",
+  "description": "A comprehensive platform for managing and orchestrating autonomous agent teams across the entire software delivery lifecycle, featuring MCP tool definitions and system prompts for every role.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
